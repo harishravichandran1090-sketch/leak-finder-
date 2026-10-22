@@ -1,0 +1,6 @@
+{
+  "name": "LeakFinder AI",
+  "description": "Find where your business loses margin across datasets, explain leaks with AI, and simulate discount policies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
